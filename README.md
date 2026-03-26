@@ -12,7 +12,7 @@ Notification Streamer is designed to handle **high-throughput notification deliv
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](./assets/notification-streamer-hld.png)
+![Architecture Diagram](https://github.com/notification-streamer/platform/blob/master/NotificationStream_HLD.png)
 
 ### 🔹 Key Components
 
